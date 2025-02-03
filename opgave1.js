@@ -1,3 +1,7 @@
+// OBJEKTER
+
+//OPGAVE 1
+
 let person = {
     firstname: "Tina",
     lastname: "Wulff",
@@ -15,3 +19,6 @@ console.log(person["numberOfChildren"]);
 
 console.log(person.lastname);
 console.log(person["lastname"]);
+
+
+
